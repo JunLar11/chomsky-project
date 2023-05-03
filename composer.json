@@ -1,0 +1,20 @@
+{
+  "name": "junlar11/chomsky-app",
+  "description": "Chomsky framework project",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+      "psr-4": {
+          "App\\": "./app"
+      }
+  },
+  "authors": [
+      {
+          "name": "Juan Larios",
+          "email": "juanjosedejesuslarios@gmail.com"
+      }
+  ],
+  "require": {
+      "junlar11/chomsky": "^0.1.0"
+  }
+}
